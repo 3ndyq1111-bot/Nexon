@@ -13,7 +13,7 @@ const moduleCache = new NodeCache({ stdTTL: 300 });
 
 /*⭑⭒━━━✦❘༻☾⋆⁺₊✧ 𝓿𝓪𝓻𝓮𝓫𝓸𝓽 ✧₊⁺⋆☽༺❘✦━━━⭒⭑*/
 
-global.endy = ['212679283897',]
+global.sam = ['212679283897',]
 global.owner = [
   ['212679283897', 'Endy', true],
   ['212722652082', 'medalis', true],
@@ -24,17 +24,18 @@ global.owner = [
   ['212786300182', 'gabry', true],
   ['628999029018', 'drali', true],
 ];
-global.mods = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
-global.prems = ['212679283897', '212722652082', '393926427789', '5511967898841', '212775270361']
+]
+global.mods = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
+global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx', 'xxxxxxxxxx']
 
-// // [ SYSTEM :: INFO BOT ]
+/*⭑⭒━━━✦❘༻🩸 INFO BOT 🕊️༺❘✦━━━⭒⭑*/
 
-global.nomepack = '𝒁𝒚𝒏𝒐 ༒︎ 𝑩𝒐𝒕'
-global.nomebot = '𖣘 𝒁𝒚𝒏𝒐 𖣘'
-global.wm = '𝒁𝒚𝒏𝒐 ༒︎ 𝑩ot'
-global.autore = '𝐄𝐧𝐝𝐲'
-global.dev = 'ت︎-𝐄𝐧𝐝𝐲'
-global.testobot = `༻⋆⁺₊𝔃𝔂𝓷𝓸𝓫𝓸𝓽₊⁺⋆༺`
+global.nomepack = '𝐙𝚬𝑌𝐍𝟎 𝚩𝚯𝚃'
+global.nomebot = '𝐙𝚬𝑌𝐍𝟎 𝚩𝚯𝚃'
+global.wm = '𝐙𝚬𝑌𝐍𝟎 𝚩𝚯𝚃'
+global.autore = '乇几ᗪㄚ'
+global.dev = '乇几ᗪㄚ'
+global.testobot = `end-bot`
 global.versione = pkg.version
 global.errore = '⚠️ *Errore inatteso!* Usa il comando `.segnala _errore_` per avvisare lo sviluppatore.'
 
@@ -56,22 +57,22 @@ global.moment = moment
 /*⭑⭒━━━✦❘🗝️ API KEYS 🌍༺❘✦━━━⭒⭑*/
 
 global.APIKeys = { // le keys con scritto "varebot" vanno cambiate con keys valide
-    spotifyclientid: 'zynobot',
-    spotifysecret: 'zynobot',
-    browserless: 'zynobot',
-    screenshotone: 'zynobot',
-    screenshotone_default: 'zynobot',
-    tmdb: 'zynobot',
-    gemini:'zynobot',
-    ocrspace: 'zynobot',
-    assemblyai: 'zynobot',
-    google: 'zynobot',
-    googlex: 'zynobot',
-    googleCX: 'zynobot',
-    genius: 'zynobot',
-    unsplash: 'zynobot',
+    spotifyclientid: 'varebot',
+    spotifysecret: 'varebot',
+    browserless: 'varebot',
+    screenshotone: 'varebot',
+    screenshotone_default: 'varebot',
+    tmdb: 'varebot',
+    gemini:'varebot',
+    ocrspace: 'varebot',
+    assemblyai: 'varebot',
+    google: 'varebot',
+    googlex: 'varebot',
+    googleCX: 'varebot',
+    genius: 'varebot',
+    unsplash: 'varebot',
     removebg: 'FEx4CYmYN1QRQWD1mbZp87jV',
-    openrouter: 'zynobot',
+    openrouter: 'varebot',
     lastfm: '36f859a1fc4121e7f0e931806507d5f9',
 }
 
